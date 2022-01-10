@@ -10,4 +10,4 @@ main:
     url: /files/cv.pdf
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
